@@ -1,0 +1,40 @@
+name: Update fixtures
+
+on:
+  schedule:
+    # 3x daily, off-the-hour to avoid GitHub Actions' peak-minute queue.
+    # Times are UTC.
+    - cron: "17 6,13,19 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-fixtures
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run scraper
+        run: python scripts/update_fixtures.py --verbose
+
+      - name: Commit and push if data changed
+        run: |
+          git config user.name "fixtures-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/fixtures.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: update fixtures $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
