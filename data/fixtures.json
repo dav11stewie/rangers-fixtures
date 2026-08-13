@@ -431,9 +431,9 @@
       "is_home": true,
       "kickoff_utc": "2026-08-13T18:30:00Z",
       "opponent": "Jagiellonia Białystok",
-      "score": null,
+      "score": "1-1",
       "stage": "3rd Qualifying Round",
-      "status": "PreEvent",
+      "status": "MidEvent",
       "time_tbc": false
     },
     {
@@ -725,7 +725,7 @@
       "time_tbc": false
     }
   ],
-  "generated_at": "2026-08-11T17:39:51.156993Z",
+  "generated_at": "2026-08-13T20:01:21.479895Z",
   "source_warnings": [],
   "tv_source_ok": true,
   "year": 2026
