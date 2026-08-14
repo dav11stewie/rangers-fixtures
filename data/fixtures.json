@@ -422,9 +422,7 @@
     },
     {
       "away": "Jagiellonia Białystok",
-      "channels": [
-        "RangersTV"
-      ],
+      "channels": [],
       "competition": "UEFA Europa League",
       "home": "Rangers",
       "id": "s-933wmdxldfbmzvdf1sb50fac4",
@@ -433,7 +431,7 @@
       "opponent": "Jagiellonia Białystok",
       "score": "1-1",
       "stage": "3rd Qualifying Round",
-      "status": "MidEvent",
+      "status": "PostEvent",
       "time_tbc": false
     },
     {
@@ -453,6 +451,20 @@
       "time_tbc": false
     },
     {
+      "away": "Jablonec",
+      "channels": [],
+      "competition": "UEFA Conference League",
+      "home": "Rangers",
+      "id": "s-e8kxl5ysk4lqh60415f3se4gk",
+      "is_home": true,
+      "kickoff_utc": "2026-08-19T23:00:00Z",
+      "opponent": "Jablonec",
+      "score": null,
+      "stage": "Play-offs",
+      "status": "PreEvent",
+      "time_tbc": true
+    },
+    {
       "away": "St. Mirren",
       "channels": [],
       "competition": "Scottish Premiership",
@@ -465,6 +477,20 @@
       "stage": "1st Phase",
       "status": "Postponed",
       "time_tbc": false
+    },
+    {
+      "away": "Rangers",
+      "channels": [],
+      "competition": "UEFA Conference League",
+      "home": "Jablonec",
+      "id": "s-eg4s1s0td2nhklyvti0d9a8es",
+      "is_home": false,
+      "kickoff_utc": "2026-08-26T23:00:00Z",
+      "opponent": "Jablonec",
+      "score": null,
+      "stage": "Play-offs",
+      "status": "PreEvent",
+      "time_tbc": true
     },
     {
       "away": "Rangers",
@@ -725,7 +751,7 @@
       "time_tbc": false
     }
   ],
-  "generated_at": "2026-08-13T20:01:21.479895Z",
+  "generated_at": "2026-08-14T07:54:10.420653Z",
   "source_warnings": [],
   "tv_source_ok": true,
   "year": 2026
