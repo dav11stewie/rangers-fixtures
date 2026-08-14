@@ -457,12 +457,12 @@
       "home": "Rangers",
       "id": "s-e8kxl5ysk4lqh60415f3se4gk",
       "is_home": true,
-      "kickoff_utc": "2026-08-19T23:00:00Z",
+      "kickoff_utc": "2026-08-20T18:45:00Z",
       "opponent": "Jablonec",
       "score": null,
       "stage": "Play-offs",
       "status": "PreEvent",
-      "time_tbc": true
+      "time_tbc": false
     },
     {
       "away": "St. Mirren",
@@ -485,12 +485,12 @@
       "home": "Jablonec",
       "id": "s-eg4s1s0td2nhklyvti0d9a8es",
       "is_home": false,
-      "kickoff_utc": "2026-08-26T23:00:00Z",
+      "kickoff_utc": "2026-08-27T16:00:00Z",
       "opponent": "Jablonec",
       "score": null,
       "stage": "Play-offs",
       "status": "PreEvent",
-      "time_tbc": true
+      "time_tbc": false
     },
     {
       "away": "Rangers",
@@ -751,7 +751,7 @@
       "time_tbc": false
     }
   ],
-  "generated_at": "2026-08-14T07:54:10.420653Z",
+  "generated_at": "2026-08-14T14:28:00.125010Z",
   "source_warnings": [],
   "tv_source_ok": true,
   "year": 2026
