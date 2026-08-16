@@ -445,9 +445,9 @@
       "is_home": true,
       "kickoff_utc": "2026-08-16T15:00:00Z",
       "opponent": "St. Mirren",
-      "score": null,
+      "score": "5-1",
       "stage": "2nd Round",
-      "status": "PreEvent",
+      "status": "PostEvent",
       "time_tbc": false
     },
     {
@@ -537,6 +537,20 @@
       "stage": "1st Phase",
       "status": "PreEvent",
       "time_tbc": false
+    },
+    {
+      "away": "Celtic",
+      "channels": [],
+      "competition": "League Cup",
+      "home": "Rangers",
+      "id": "s-674k3tzafzq3yqpxfq04k1las",
+      "is_home": true,
+      "kickoff_utc": "2026-09-11T23:00:00Z",
+      "opponent": "Celtic",
+      "score": null,
+      "stage": "Quarter-finals",
+      "status": "PreEvent",
+      "time_tbc": true
     },
     {
       "away": "Rangers",
@@ -751,7 +765,7 @@
       "time_tbc": false
     }
   ],
-  "generated_at": "2026-08-14T14:28:00.125010Z",
+  "generated_at": "2026-08-16T19:37:53.961346Z",
   "source_warnings": [],
   "tv_source_ok": true,
   "year": 2026
