@@ -436,9 +436,7 @@
     },
     {
       "away": "St. Mirren",
-      "channels": [
-        "Premier Sports 1"
-      ],
+      "channels": [],
       "competition": "League Cup",
       "home": "Rangers",
       "id": "s-29p2p64cy2fmvztcw2owvhy50",
@@ -765,7 +763,7 @@
       "time_tbc": false
     }
   ],
-  "generated_at": "2026-08-16T19:37:53.961346Z",
+  "generated_at": "2026-08-17T07:26:13.040346Z",
   "source_warnings": [],
   "tv_source_ok": true,
   "year": 2026
