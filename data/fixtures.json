@@ -543,12 +543,12 @@
       "home": "Rangers",
       "id": "s-674k3tzafzq3yqpxfq04k1las",
       "is_home": true,
-      "kickoff_utc": "2026-09-11T23:00:00Z",
+      "kickoff_utc": "2026-09-13T11:00:00Z",
       "opponent": "Celtic",
       "score": null,
       "stage": "Quarter-finals",
       "status": "PreEvent",
-      "time_tbc": true
+      "time_tbc": false
     },
     {
       "away": "Rangers",
@@ -763,7 +763,7 @@
       "time_tbc": false
     }
   ],
-  "generated_at": "2026-08-17T07:26:13.040346Z",
+  "generated_at": "2026-08-18T14:00:07.856809Z",
   "source_warnings": [],
   "tv_source_ok": true,
   "year": 2026
