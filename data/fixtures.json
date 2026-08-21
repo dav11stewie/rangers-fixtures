@@ -457,9 +457,9 @@
       "is_home": true,
       "kickoff_utc": "2026-08-20T18:45:00Z",
       "opponent": "Jablonec",
-      "score": "0-0",
+      "score": "1-0",
       "stage": "Play-offs",
-      "status": "MidEvent",
+      "status": "PostEvent",
       "time_tbc": false
     },
     {
@@ -767,7 +767,7 @@
       "time_tbc": false
     }
   ],
-  "generated_at": "2026-08-20T19:49:01.666257Z",
+  "generated_at": "2026-08-21T07:11:20.563459Z",
   "source_warnings": [],
   "tv_source_ok": true,
   "year": 2026
