@@ -740,7 +740,9 @@
     },
     {
       "away": "Rangers",
-      "channels": [],
+      "channels": [
+        "Premier Sports TBC"
+      ],
       "competition": "Scottish Premiership",
       "home": "Kilmarnock",
       "id": "s-2qsiaus69efotjvm73c2vrdw4",
@@ -767,7 +769,7 @@
       "time_tbc": false
     }
   ],
-  "generated_at": "2026-08-26T14:07:24.478496Z",
+  "generated_at": "2026-08-26T22:17:40.655114Z",
   "source_warnings": [],
   "tv_source_ok": true,
   "year": 2026
