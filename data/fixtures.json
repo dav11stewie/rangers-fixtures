@@ -745,7 +745,7 @@
       "home": "Kilmarnock",
       "id": "s-2qsiaus69efotjvm73c2vrdw4",
       "is_home": false,
-      "kickoff_utc": "2026-12-26T15:00:00Z",
+      "kickoff_utc": "2026-12-26T17:45:00Z",
       "opponent": "Kilmarnock",
       "score": null,
       "stage": "1st Phase",
@@ -767,7 +767,7 @@
       "time_tbc": false
     }
   ],
-  "generated_at": "2026-08-21T07:11:20.563459Z",
+  "generated_at": "2026-08-26T14:07:24.478496Z",
   "source_warnings": [],
   "tv_source_ok": true,
   "year": 2026
