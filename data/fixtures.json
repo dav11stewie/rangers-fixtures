@@ -463,20 +463,6 @@
       "time_tbc": false
     },
     {
-      "away": "St. Mirren",
-      "channels": [],
-      "competition": "Scottish Premiership",
-      "home": "Rangers",
-      "id": "s-1rg1ntpyrvba90csaxkfqehhw",
-      "is_home": true,
-      "kickoff_utc": "2026-08-22T14:00:00Z",
-      "opponent": "St. Mirren",
-      "score": null,
-      "stage": "1st Phase",
-      "status": "Postponed",
-      "time_tbc": false
-    },
-    {
       "away": "Rangers",
       "channels": [],
       "competition": "UEFA Conference League",
@@ -533,6 +519,20 @@
       "is_home": true,
       "kickoff_utc": "2026-09-05T14:00:00Z",
       "opponent": "Motherwell",
+      "score": null,
+      "stage": "1st Phase",
+      "status": "PreEvent",
+      "time_tbc": false
+    },
+    {
+      "away": "St. Mirren",
+      "channels": [],
+      "competition": "Scottish Premiership",
+      "home": "Rangers",
+      "id": "s-1rg1ntpyrvba90csaxkfqehhw",
+      "is_home": true,
+      "kickoff_utc": "2026-09-09T18:45:00Z",
+      "opponent": "St. Mirren",
       "score": null,
       "stage": "1st Phase",
       "status": "PreEvent",
@@ -769,7 +769,7 @@
       "time_tbc": false
     }
   ],
-  "generated_at": "2026-08-28T03:36:32.064446Z",
+  "generated_at": "2026-08-28T18:48:12.625675Z",
   "source_warnings": [],
   "tv_source_ok": true,
   "year": 2026
