@@ -487,7 +487,7 @@
       "opponent": "Jablonec",
       "score": "1-0",
       "stage": "Play-offs",
-      "status": "MidEvent",
+      "status": "PostEvent",
       "time_tbc": false
     },
     {
@@ -769,7 +769,7 @@
       "time_tbc": false
     }
   ],
-  "generated_at": "2026-08-27T17:41:12.541802Z",
+  "generated_at": "2026-08-28T03:36:32.064446Z",
   "source_warnings": [],
   "tv_source_ok": true,
   "year": 2026
