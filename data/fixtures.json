@@ -478,11 +478,7 @@
     },
     {
       "away": "Rangers",
-      "channels": [
-        "Sky Sports Main Event",
-        "Sky Sports Football",
-        "Sky Sports Ultra HDR"
-      ],
+      "channels": [],
       "competition": "Scottish Premiership",
       "home": "Aberdeen",
       "id": "s-1s4yumiiqclxwdrmwkf61oe1g",
@@ -770,7 +766,7 @@
       "time_tbc": false
     }
   ],
-  "generated_at": "2026-08-30T17:34:29.350341Z",
+  "generated_at": "2026-08-30T21:55:10.986449Z",
   "source_warnings": [],
   "tv_source_ok": true,
   "year": 2026
