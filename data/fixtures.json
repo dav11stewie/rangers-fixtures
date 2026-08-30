@@ -489,9 +489,9 @@
       "is_home": false,
       "kickoff_utc": "2026-08-30T11:00:00Z",
       "opponent": "Aberdeen",
-      "score": "0-0",
+      "score": "0-1",
       "stage": "1st Phase",
-      "status": "MidEvent",
+      "status": "PostEvent",
       "time_tbc": false
     },
     {
@@ -770,7 +770,7 @@
       "time_tbc": false
     }
   ],
-  "generated_at": "2026-08-30T11:59:56.747953Z",
+  "generated_at": "2026-08-30T17:34:29.350341Z",
   "source_warnings": [],
   "tv_source_ok": true,
   "year": 2026
