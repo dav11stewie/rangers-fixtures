@@ -492,19 +492,16 @@
     },
     {
       "away": "Rangers",
-      "channels": [
-        "Sky Sports Football",
-        "Sky Sports Ultra HDR"
-      ],
+      "channels": [],
       "competition": "Scottish Premiership",
       "home": "Falkirk",
       "id": "s-1uwxag2n1rl5i4u3a0x3ca68k",
       "is_home": false,
       "kickoff_utc": "2026-09-02T19:00:00Z",
       "opponent": "Falkirk",
-      "score": null,
+      "score": "1-2",
       "stage": "1st Phase",
-      "status": "PreEvent",
+      "status": "PostEvent",
       "time_tbc": false
     },
     {
@@ -766,7 +763,7 @@
       "time_tbc": false
     }
   ],
-  "generated_at": "2026-08-30T21:55:10.986449Z",
+  "generated_at": "2026-09-02T21:52:15.773488Z",
   "source_warnings": [],
   "tv_source_ok": true,
   "year": 2026
