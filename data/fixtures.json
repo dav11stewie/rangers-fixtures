@@ -580,7 +580,9 @@
     },
     {
       "away": "Rangers",
-      "channels": [],
+      "channels": [
+        "Sky Sports TBC"
+      ],
       "competition": "Scottish Premiership",
       "home": "Dundee",
       "id": "s-237dnfxz0ok673k44ym9zifis",
@@ -763,7 +765,7 @@
       "time_tbc": false
     }
   ],
-  "generated_at": "2026-09-04T16:53:42.591418Z",
+  "generated_at": "2026-09-04T21:32:56.129946Z",
   "source_warnings": [],
   "tv_source_ok": true,
   "year": 2026
