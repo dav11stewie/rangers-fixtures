@@ -513,9 +513,9 @@
       "is_home": true,
       "kickoff_utc": "2026-09-05T14:00:00Z",
       "opponent": "Motherwell",
-      "score": null,
+      "score": "1-0",
       "stage": "1st Phase",
-      "status": "PreEvent",
+      "status": "PostEvent",
       "time_tbc": false
     },
     {
@@ -765,8 +765,10 @@
       "time_tbc": false
     }
   ],
-  "generated_at": "2026-09-04T21:32:56.129946Z",
-  "source_warnings": [],
-  "tv_source_ok": true,
+  "generated_at": "2026-09-05T16:07:28.194903Z",
+  "source_warnings": [
+    "TV listings fetch failed: HTTP Error 523: <none>"
+  ],
+  "tv_source_ok": false,
   "year": 2026
 }
