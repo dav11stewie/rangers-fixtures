@@ -520,7 +520,9 @@
     },
     {
       "away": "St. Mirren",
-      "channels": [],
+      "channels": [
+        "RangersTV"
+      ],
       "competition": "Scottish Premiership",
       "home": "Rangers",
       "id": "s-1rg1ntpyrvba90csaxkfqehhw",
@@ -581,7 +583,7 @@
     {
       "away": "Rangers",
       "channels": [
-        "Sky Sports TBC"
+        "Sky Sports Football"
       ],
       "competition": "Scottish Premiership",
       "home": "Dundee",
@@ -765,10 +767,8 @@
       "time_tbc": false
     }
   ],
-  "generated_at": "2026-09-05T16:07:28.194903Z",
-  "source_warnings": [
-    "TV listings fetch failed: HTTP Error 523: <none>"
-  ],
-  "tv_source_ok": false,
+  "generated_at": "2026-09-07T18:16:40.679886Z",
+  "source_warnings": [],
+  "tv_source_ok": true,
   "year": 2026
 }
