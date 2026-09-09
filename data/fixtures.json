@@ -520,18 +520,16 @@
     },
     {
       "away": "St. Mirren",
-      "channels": [
-        "RangersTV"
-      ],
+      "channels": [],
       "competition": "Scottish Premiership",
       "home": "Rangers",
       "id": "s-1rg1ntpyrvba90csaxkfqehhw",
       "is_home": true,
       "kickoff_utc": "2026-09-09T18:45:00Z",
       "opponent": "St. Mirren",
-      "score": null,
+      "score": "1-0",
       "stage": "1st Phase",
-      "status": "PreEvent",
+      "status": "PostEvent",
       "time_tbc": false
     },
     {
@@ -767,7 +765,7 @@
       "time_tbc": false
     }
   ],
-  "generated_at": "2026-09-07T18:16:40.679886Z",
+  "generated_at": "2026-09-09T21:44:25.610194Z",
   "source_warnings": [],
   "tv_source_ok": true,
   "year": 2026
