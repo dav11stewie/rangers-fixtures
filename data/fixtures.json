@@ -551,7 +551,9 @@
     {
       "away": "Rangers",
       "channels": [
-        "Sky Sports Football"
+        "Sky Sports Main Event",
+        "Sky Sports Football",
+        "Sky Sports Ultra HDR"
       ],
       "competition": "Scottish Premiership",
       "home": "Celtic",
@@ -765,7 +767,7 @@
       "time_tbc": false
     }
   ],
-  "generated_at": "2026-09-09T21:44:25.610194Z",
+  "generated_at": "2026-09-11T17:02:43.775668Z",
   "source_warnings": [],
   "tv_source_ok": true,
   "year": 2026
