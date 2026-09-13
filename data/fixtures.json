@@ -534,9 +534,7 @@
     },
     {
       "away": "Celtic",
-      "channels": [
-        "Premier Sports 1"
-      ],
+      "channels": [],
       "competition": "League Cup",
       "home": "Rangers",
       "id": "s-674k3tzafzq3yqpxfq04k1las",
@@ -781,7 +779,7 @@
       "time_tbc": false
     }
   ],
-  "generated_at": "2026-09-13T16:58:54.755205Z",
+  "generated_at": "2026-09-13T21:28:02.804942Z",
   "source_warnings": [],
   "tv_source_ok": true,
   "year": 2026
