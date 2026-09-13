@@ -543,9 +543,9 @@
       "is_home": true,
       "kickoff_utc": "2026-09-13T11:00:00Z",
       "opponent": "Celtic",
-      "score": null,
+      "score": "1-0",
       "stage": "Quarter-finals",
-      "status": "PreEvent",
+      "status": "MidEvent",
       "time_tbc": false
     },
     {
@@ -767,7 +767,7 @@
       "time_tbc": false
     }
   ],
-  "generated_at": "2026-09-11T17:02:43.775668Z",
+  "generated_at": "2026-09-13T11:59:43.003579Z",
   "source_warnings": [],
   "tv_source_ok": true,
   "year": 2026
