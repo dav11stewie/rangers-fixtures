@@ -625,20 +625,6 @@
     {
       "away": "Aberdeen",
       "channels": [],
-      "competition": "League Cup",
-      "home": "Rangers",
-      "id": "s-925pci2y1w6pa01a3dgut8is4",
-      "is_home": true,
-      "kickoff_utc": "2026-10-31T00:00:00Z",
-      "opponent": "Aberdeen",
-      "score": null,
-      "stage": "Semi-finals",
-      "status": "PreEvent",
-      "time_tbc": true
-    },
-    {
-      "away": "Aberdeen",
-      "channels": [],
       "competition": "Scottish Premiership",
       "home": "Rangers",
       "id": "s-2ah8iq89ollxlr0cbowv8b2ms",
@@ -648,6 +634,20 @@
       "score": null,
       "stage": "1st Phase",
       "status": "Postponed",
+      "time_tbc": false
+    },
+    {
+      "away": "Aberdeen",
+      "channels": [],
+      "competition": "League Cup",
+      "home": "Rangers",
+      "id": "s-925pci2y1w6pa01a3dgut8is4",
+      "is_home": true,
+      "kickoff_utc": "2026-10-31T17:30:00Z",
+      "opponent": "Aberdeen",
+      "score": null,
+      "stage": "Semi-finals",
+      "status": "PreEvent",
       "time_tbc": false
     },
     {
@@ -779,7 +779,7 @@
       "time_tbc": false
     }
   ],
-  "generated_at": "2026-09-13T21:28:02.804942Z",
+  "generated_at": "2026-09-16T11:45:12.062190Z",
   "source_warnings": [],
   "tv_source_ok": true,
   "year": 2026
