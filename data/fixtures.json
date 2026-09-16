@@ -624,7 +624,9 @@
     },
     {
       "away": "Aberdeen",
-      "channels": [],
+      "channels": [
+        "Premier Sports TBC"
+      ],
       "competition": "Scottish Premiership",
       "home": "Rangers",
       "id": "s-2ah8iq89ollxlr0cbowv8b2ms",
@@ -638,7 +640,9 @@
     },
     {
       "away": "Aberdeen",
-      "channels": [],
+      "channels": [
+        "Premier Sports TBC"
+      ],
       "competition": "League Cup",
       "home": "Rangers",
       "id": "s-925pci2y1w6pa01a3dgut8is4",
@@ -779,7 +783,7 @@
       "time_tbc": false
     }
   ],
-  "generated_at": "2026-09-16T11:45:12.062190Z",
+  "generated_at": "2026-09-16T17:39:03.806851Z",
   "source_warnings": [],
   "tv_source_ok": true,
   "year": 2026
