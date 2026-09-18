@@ -615,7 +615,7 @@
       "home": "Heart of Midlothian",
       "id": "s-27pcd3gp42qvodkfm46uwcpw4",
       "is_home": false,
-      "kickoff_utc": "2026-10-28T19:45:00Z",
+      "kickoff_utc": "2026-10-28T20:00:00Z",
       "opponent": "Heart of Midlothian",
       "score": null,
       "stage": "1st Phase",
@@ -783,7 +783,7 @@
       "time_tbc": false
     }
   ],
-  "generated_at": "2026-09-16T17:39:03.806851Z",
+  "generated_at": "2026-09-18T17:06:44.616444Z",
   "source_warnings": [],
   "tv_source_ok": true,
   "year": 2026
