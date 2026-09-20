@@ -559,9 +559,9 @@
       "is_home": false,
       "kickoff_utc": "2026-09-20T11:00:00Z",
       "opponent": "Celtic",
-      "score": null,
+      "score": "0-0",
       "stage": "1st Phase",
-      "status": "PreEvent",
+      "status": "MidEvent",
       "time_tbc": false
     },
     {
@@ -783,7 +783,7 @@
       "time_tbc": false
     }
   ],
-  "generated_at": "2026-09-18T17:06:44.616444Z",
+  "generated_at": "2026-09-20T11:33:00.391688Z",
   "source_warnings": [],
   "tv_source_ok": true,
   "year": 2026
