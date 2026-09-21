@@ -606,7 +606,9 @@
     },
     {
       "away": "Rangers",
-      "channels": [],
+      "channels": [
+        "Sky Sports TBC"
+      ],
       "competition": "Scottish Premiership",
       "home": "Heart of Midlothian",
       "id": "s-27pcd3gp42qvodkfm46uwcpw4",
@@ -621,7 +623,7 @@
     {
       "away": "Aberdeen",
       "channels": [
-        "Premier Sports TBC"
+        "Premier Sports 1"
       ],
       "competition": "Scottish Premiership",
       "home": "Rangers",
@@ -637,7 +639,7 @@
     {
       "away": "Aberdeen",
       "channels": [
-        "Premier Sports TBC"
+        "Premier Sports 1"
       ],
       "competition": "League Cup",
       "home": "Rangers",
@@ -779,7 +781,7 @@
       "time_tbc": false
     }
   ],
-  "generated_at": "2026-09-20T21:37:12.782084Z",
+  "generated_at": "2026-09-21T18:45:31.403441Z",
   "source_warnings": [],
   "tv_source_ok": true,
   "year": 2026
