@@ -607,7 +607,7 @@
     {
       "away": "Rangers",
       "channels": [
-        "Sky Sports TBC"
+        "Sky Sports Football"
       ],
       "competition": "Scottish Premiership",
       "home": "Heart of Midlothian",
@@ -618,22 +618,6 @@
       "score": null,
       "stage": "1st Phase",
       "status": "PreEvent",
-      "time_tbc": false
-    },
-    {
-      "away": "Aberdeen",
-      "channels": [
-        "Premier Sports 1"
-      ],
-      "competition": "Scottish Premiership",
-      "home": "Rangers",
-      "id": "s-2ah8iq89ollxlr0cbowv8b2ms",
-      "is_home": true,
-      "kickoff_utc": "2026-10-31T15:00:00Z",
-      "opponent": "Aberdeen",
-      "score": null,
-      "stage": "1st Phase",
-      "status": "Postponed",
       "time_tbc": false
     },
     {
@@ -654,12 +638,14 @@
     },
     {
       "away": "Rangers",
-      "channels": [],
+      "channels": [
+        "Sky Sports Football"
+      ],
       "competition": "Scottish Premiership",
       "home": "St. Mirren",
       "id": "s-2c7n1v1mavlh8868znxr24s9g",
       "is_home": false,
-      "kickoff_utc": "2026-11-07T15:00:00Z",
+      "kickoff_utc": "2026-11-07T20:00:00Z",
       "opponent": "St. Mirren",
       "score": null,
       "stage": "1st Phase",
@@ -668,13 +654,31 @@
     },
     {
       "away": "Rangers",
-      "channels": [],
+      "channels": [
+        "Sky Sports Football"
+      ],
       "competition": "Scottish Premiership",
       "home": "Motherwell",
       "id": "s-2enm6isg849gfaiysg7stlams",
       "is_home": false,
-      "kickoff_utc": "2026-11-21T15:00:00Z",
+      "kickoff_utc": "2026-11-21T20:00:00Z",
       "opponent": "Motherwell",
+      "score": null,
+      "stage": "1st Phase",
+      "status": "PreEvent",
+      "time_tbc": false
+    },
+    {
+      "away": "Aberdeen",
+      "channels": [
+        "Sky Sports Football"
+      ],
+      "competition": "Scottish Premiership",
+      "home": "Rangers",
+      "id": "s-2ah8iq89ollxlr0cbowv8b2ms",
+      "is_home": true,
+      "kickoff_utc": "2026-11-24T20:00:00Z",
+      "opponent": "Aberdeen",
       "score": null,
       "stage": "1st Phase",
       "status": "PreEvent",
@@ -781,7 +785,7 @@
       "time_tbc": false
     }
   ],
-  "generated_at": "2026-09-21T18:45:31.403441Z",
+  "generated_at": "2026-09-22T17:39:34.884434Z",
   "source_warnings": [],
   "tv_source_ok": true,
   "year": 2026
