@@ -577,7 +577,9 @@
     {
       "away": "Rangers",
       "channels": [
-        "Sky Sports Football"
+        "Sky Sports Main Event",
+        "Sky Sports Football",
+        "Sky Sports Ultra HDR"
       ],
       "competition": "Scottish Premiership",
       "home": "Dundee",
@@ -785,7 +787,7 @@
       "time_tbc": false
     }
   ],
-  "generated_at": "2026-09-22T17:39:34.884434Z",
+  "generated_at": "2026-10-09T13:25:34.003312Z",
   "source_warnings": [],
   "tv_source_ok": true,
   "year": 2026
