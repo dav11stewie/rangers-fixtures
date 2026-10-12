@@ -721,7 +721,7 @@
       "home": "Hibernian",
       "id": "s-2k7jx4rgv70g09gmfyzupwidw",
       "is_home": false,
-      "kickoff_utc": "2026-12-05T15:00:00Z",
+      "kickoff_utc": "2026-12-07T20:00:00Z",
       "opponent": "Hibernian",
       "score": null,
       "stage": "1st Phase",
@@ -735,7 +735,7 @@
       "home": "St. Johnstone",
       "id": "s-2myzpm6qf07q494bczkoq02dw",
       "is_home": false,
-      "kickoff_utc": "2026-12-12T15:00:00Z",
+      "kickoff_utc": "2026-12-13T12:00:00Z",
       "opponent": "St. Johnstone",
       "score": null,
       "stage": "1st Phase",
@@ -749,7 +749,7 @@
       "home": "Rangers",
       "id": "s-2oq52ioqo6c2q5mbhn12ay9ec",
       "is_home": true,
-      "kickoff_utc": "2026-12-20T15:00:00Z",
+      "kickoff_utc": "2026-12-20T14:30:00Z",
       "opponent": "Heart of Midlothian",
       "score": null,
       "stage": "1st Phase",
@@ -787,7 +787,7 @@
       "time_tbc": false
     }
   ],
-  "generated_at": "2026-10-10T17:53:44.225765Z",
+  "generated_at": "2026-10-12T15:39:18.387462Z",
   "source_warnings": [],
   "tv_source_ok": true,
   "year": 2026
