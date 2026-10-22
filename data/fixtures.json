@@ -605,7 +605,8 @@
     {
       "away": "Rangers",
       "channels": [
-        "Sky Sports Football"
+        "Sky Sports Football",
+        "Sky Sports Ultra HDR"
       ],
       "competition": "Scottish Premiership",
       "home": "Heart of Midlothian",
@@ -789,7 +790,7 @@
       "time_tbc": false
     }
   ],
-  "generated_at": "2026-10-18T11:18:15.357840Z",
+  "generated_at": "2026-10-22T18:01:54.379174Z",
   "source_warnings": [],
   "tv_source_ok": true,
   "year": 2026
