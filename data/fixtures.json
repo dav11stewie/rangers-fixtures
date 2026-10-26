@@ -638,7 +638,9 @@
     {
       "away": "Rangers",
       "channels": [
-        "Sky Sports Football"
+        "Sky Sports Main Event",
+        "Sky Sports Football",
+        "Sky Sports Ultra HDR"
       ],
       "competition": "Scottish Premiership",
       "home": "St. Mirren",
@@ -790,7 +792,7 @@
       "time_tbc": false
     }
   ],
-  "generated_at": "2026-10-24T16:40:36.470329Z",
+  "generated_at": "2026-10-26T19:24:30.945700Z",
   "source_warnings": [],
   "tv_source_ok": true,
   "year": 2026
