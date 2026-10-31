@@ -627,9 +627,9 @@
       "is_home": true,
       "kickoff_utc": "2026-10-31T17:30:00Z",
       "opponent": "Aberdeen",
-      "score": "0-0",
+      "score": "1-0",
       "stage": "Semi-finals",
-      "status": "MidEvent",
+      "status": "PostEvent",
       "time_tbc": false
     },
     {
@@ -789,7 +789,7 @@
       "time_tbc": false
     }
   ],
-  "generated_at": "2026-10-31T17:48:26.692262Z",
+  "generated_at": "2026-10-31T22:33:58.451918Z",
   "source_warnings": [],
   "tv_source_ok": true,
   "year": 2026
