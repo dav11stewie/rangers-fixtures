@@ -618,9 +618,7 @@
     },
     {
       "away": "Aberdeen",
-      "channels": [
-        "Premier Sports 1"
-      ],
+      "channels": [],
       "competition": "League Cup",
       "home": "Rangers",
       "id": "s-925pci2y1w6pa01a3dgut8is4",
@@ -789,7 +787,7 @@
       "time_tbc": false
     }
   ],
-  "generated_at": "2026-10-31T22:33:58.451918Z",
+  "generated_at": "2026-11-01T13:34:21.181998Z",
   "source_warnings": [],
   "tv_source_ok": true,
   "year": 2026
