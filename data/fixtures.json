@@ -726,6 +726,20 @@
     },
     {
       "away": "Rangers",
+      "channels": [],
+      "competition": "League Cup",
+      "home": "Hibernian",
+      "id": "s-ckdy8r6415j87cximlkogp1xw",
+      "is_home": false,
+      "kickoff_utc": "2026-12-13T00:00:00Z",
+      "opponent": "Hibernian",
+      "score": null,
+      "stage": "Final",
+      "status": "PreEvent",
+      "time_tbc": true
+    },
+    {
+      "away": "Rangers",
       "channels": [
         "Sky Sports Football"
       ],
@@ -737,7 +751,7 @@
       "opponent": "St. Johnstone",
       "score": null,
       "stage": "1st Phase",
-      "status": "PreEvent",
+      "status": "Postponed",
       "time_tbc": false
     },
     {
@@ -787,7 +801,7 @@
       "time_tbc": false
     }
   ],
-  "generated_at": "2026-11-01T13:34:21.181998Z",
+  "generated_at": "2026-11-01T22:53:38.004992Z",
   "source_warnings": [],
   "tv_source_ok": true,
   "year": 2026
