@@ -726,22 +726,6 @@
     },
     {
       "away": "Rangers",
-      "channels": [
-        "Premier Sports TBC"
-      ],
-      "competition": "League Cup",
-      "home": "Hibernian",
-      "id": "s-ckdy8r6415j87cximlkogp1xw",
-      "is_home": false,
-      "kickoff_utc": "2026-12-13T00:00:00Z",
-      "opponent": "Hibernian",
-      "score": null,
-      "stage": "Final",
-      "status": "PreEvent",
-      "time_tbc": true
-    },
-    {
-      "away": "Rangers",
       "channels": [],
       "competition": "Scottish Premiership",
       "home": "St. Johnstone",
@@ -752,6 +736,22 @@
       "score": null,
       "stage": "1st Phase",
       "status": "Postponed",
+      "time_tbc": false
+    },
+    {
+      "away": "Rangers",
+      "channels": [
+        "Premier Sports TBC"
+      ],
+      "competition": "League Cup",
+      "home": "Hibernian",
+      "id": "s-ckdy8r6415j87cximlkogp1xw",
+      "is_home": false,
+      "kickoff_utc": "2026-12-13T15:00:00Z",
+      "opponent": "Hibernian",
+      "score": null,
+      "stage": "Final",
+      "status": "PreEvent",
       "time_tbc": false
     },
     {
@@ -801,7 +801,7 @@
       "time_tbc": false
     }
   ],
-  "generated_at": "2026-11-03T01:39:13.151033Z",
+  "generated_at": "2026-11-03T14:26:20.507621Z",
   "source_warnings": [],
   "tv_source_ok": true,
   "year": 2026
