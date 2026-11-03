@@ -726,7 +726,9 @@
     },
     {
       "away": "Rangers",
-      "channels": [],
+      "channels": [
+        "Premier Sports TBC"
+      ],
       "competition": "League Cup",
       "home": "Hibernian",
       "id": "s-ckdy8r6415j87cximlkogp1xw",
@@ -740,9 +742,7 @@
     },
     {
       "away": "Rangers",
-      "channels": [
-        "Sky Sports Football"
-      ],
+      "channels": [],
       "competition": "Scottish Premiership",
       "home": "St. Johnstone",
       "id": "s-2myzpm6qf07q494bczkoq02dw",
@@ -801,7 +801,7 @@
       "time_tbc": false
     }
   ],
-  "generated_at": "2026-11-01T22:53:38.004992Z",
+  "generated_at": "2026-11-03T01:39:13.151033Z",
   "source_warnings": [],
   "tv_source_ok": true,
   "year": 2026
