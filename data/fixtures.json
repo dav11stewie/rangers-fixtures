@@ -726,20 +726,6 @@
     },
     {
       "away": "Rangers",
-      "channels": [],
-      "competition": "Scottish Premiership",
-      "home": "St. Johnstone",
-      "id": "s-2myzpm6qf07q494bczkoq02dw",
-      "is_home": false,
-      "kickoff_utc": "2026-12-13T12:00:00Z",
-      "opponent": "St. Johnstone",
-      "score": null,
-      "stage": "1st Phase",
-      "status": "Postponed",
-      "time_tbc": false
-    },
-    {
-      "away": "Rangers",
       "channels": [
         "Premier Sports TBC"
       ],
@@ -801,7 +787,7 @@
       "time_tbc": false
     }
   ],
-  "generated_at": "2026-11-03T14:26:20.507621Z",
+  "generated_at": "2026-11-04T00:00:12.688802Z",
   "source_warnings": [],
   "tv_source_ok": true,
   "year": 2026
