@@ -646,7 +646,9 @@
     },
     {
       "away": "Rangers",
-      "channels": [],
+      "channels": [
+        "Sky Sports Football"
+      ],
       "competition": "Scottish Premiership",
       "home": "Motherwell",
       "id": "s-2enm6isg849gfaiysg7stlams",
@@ -660,7 +662,9 @@
     },
     {
       "away": "Aberdeen",
-      "channels": [],
+      "channels": [
+        "Sky Sports Football"
+      ],
       "competition": "Scottish Premiership",
       "home": "Rangers",
       "id": "s-2ah8iq89ollxlr0cbowv8b2ms",
@@ -702,7 +706,9 @@
     },
     {
       "away": "Rangers",
-      "channels": [],
+      "channels": [
+        "Sky Sports Football"
+      ],
       "competition": "Scottish Premiership",
       "home": "Hibernian",
       "id": "s-2k7jx4rgv70g09gmfyzupwidw",
@@ -716,7 +722,9 @@
     },
     {
       "away": "Rangers",
-      "channels": [],
+      "channels": [
+        "Premier Sports TBC"
+      ],
       "competition": "League Cup",
       "home": "Hibernian",
       "id": "s-ckdy8r6415j87cximlkogp1xw",
@@ -730,7 +738,9 @@
     },
     {
       "away": "Heart of Midlothian",
-      "channels": [],
+      "channels": [
+        "Sky Sports Football"
+      ],
       "competition": "Scottish Premiership",
       "home": "Rangers",
       "id": "s-2oq52ioqo6c2q5mbhn12ay9ec",
@@ -744,7 +754,9 @@
     },
     {
       "away": "Rangers",
-      "channels": [],
+      "channels": [
+        "Premier Sports TBC"
+      ],
       "competition": "Scottish Premiership",
       "home": "Kilmarnock",
       "id": "s-2qsiaus69efotjvm73c2vrdw4",
@@ -771,7 +783,7 @@
       "time_tbc": false
     }
   ],
-  "generated_at": "2026-11-14T23:02:03.765973Z",
+  "generated_at": "2026-11-15T23:24:45.620768Z",
   "source_warnings": [],
   "tv_source_ok": true,
   "year": 2026
