@@ -723,7 +723,7 @@
     {
       "away": "Rangers",
       "channels": [
-        "Premier Sports TBC"
+        "Premier Sports 1"
       ],
       "competition": "League Cup",
       "home": "Hibernian",
@@ -783,7 +783,7 @@
       "time_tbc": false
     }
   ],
-  "generated_at": "2026-11-15T23:24:45.620768Z",
+  "generated_at": "2026-11-18T01:39:49.122290Z",
   "source_warnings": [],
   "tv_source_ok": true,
   "year": 2026
