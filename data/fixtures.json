@@ -646,9 +646,7 @@
     },
     {
       "away": "Rangers",
-      "channels": [
-        "Sky Sports Football"
-      ],
+      "channels": [],
       "competition": "Scottish Premiership",
       "home": "Motherwell",
       "id": "s-2enm6isg849gfaiysg7stlams",
@@ -784,7 +782,7 @@
       "time_tbc": false
     }
   ],
-  "generated_at": "2026-11-21T23:50:10.211137Z",
+  "generated_at": "2026-11-22T14:41:35.137893Z",
   "source_warnings": [],
   "tv_source_ok": true,
   "year": 2026
