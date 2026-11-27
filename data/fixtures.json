@@ -703,7 +703,9 @@
     {
       "away": "Rangers",
       "channels": [
-        "Sky Sports Football"
+        "Sky Sports Main Event",
+        "Sky Sports Football",
+        "Sky Sports Ultra HDR"
       ],
       "competition": "Scottish Premiership",
       "home": "Hibernian",
@@ -779,7 +781,7 @@
       "time_tbc": false
     }
   ],
-  "generated_at": "2026-11-25T03:03:46.572166Z",
+  "generated_at": "2026-11-27T16:47:26.828367Z",
   "source_warnings": [],
   "tv_source_ok": true,
   "year": 2026
