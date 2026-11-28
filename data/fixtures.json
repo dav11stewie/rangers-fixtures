@@ -681,9 +681,9 @@
       "is_home": true,
       "kickoff_utc": "2026-11-28T15:00:00Z",
       "opponent": "Falkirk",
-      "score": null,
+      "score": "0-0",
       "stage": "1st Phase",
-      "status": "PreEvent",
+      "status": "MidEvent",
       "time_tbc": false
     },
     {
@@ -781,7 +781,7 @@
       "time_tbc": false
     }
   ],
-  "generated_at": "2026-11-27T16:47:26.828367Z",
+  "generated_at": "2026-11-28T15:39:20.379536Z",
   "source_warnings": [],
   "tv_source_ok": true,
   "year": 2026
